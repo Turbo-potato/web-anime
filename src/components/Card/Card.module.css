@@ -1,0 +1,17 @@
+.wrapper {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   flex-direction: column;
+}
+
+.title {
+   width: 100%;
+   text-align: center;
+}
+
+.image {
+   border-radius: 3px;
+   cursor: pointer;
+   position: relative;
+}
