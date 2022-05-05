@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/web-anime/static/css/main.f54a033f.css",
-    "main.js": "/web-anime/static/js/main.b5b2e6fa.js",
-    "static/js/787.759e47f1.chunk.js": "/web-anime/static/js/787.759e47f1.chunk.js",
-    "static/media/summoner.jpg": "/web-anime/static/media/summoner.8348cd4b46f2450eea2f.jpg",
-    "static/media/time.jpg": "/web-anime/static/media/time.0220a723ca162617c6a4.jpg",
-    "static/media/witch.jpg": "/web-anime/static/media/witch.92addd0c3e68b2c8f14a.jpg",
-    "static/media/kaisen.jpg": "/web-anime/static/media/kaisen.0e1e66bbefe857781d77.jpg",
-    "static/media/naruto.jpg": "/web-anime/static/media/naruto.23c4f1163ff8d6c0922a.jpg",
-    "static/media/komi.jpg": "/web-anime/static/media/komi.768b6a11706eec462666.jpg",
-    "index.html": "/web-anime/index.html",
-    "main.f54a033f.css.map": "/web-anime/static/css/main.f54a033f.css.map",
-    "main.b5b2e6fa.js.map": "/web-anime/static/js/main.b5b2e6fa.js.map",
-    "787.759e47f1.chunk.js.map": "/web-anime/static/js/787.759e47f1.chunk.js.map"
+    "main.css": "/static/css/main.f54a033f.css",
+    "main.js": "/static/js/main.6e3afe58.js",
+    "static/js/787.759e47f1.chunk.js": "/static/js/787.759e47f1.chunk.js",
+    "static/media/summoner.jpg": "/static/media/summoner.8348cd4b46f2450eea2f.jpg",
+    "static/media/time.jpg": "/static/media/time.0220a723ca162617c6a4.jpg",
+    "static/media/witch.jpg": "/static/media/witch.92addd0c3e68b2c8f14a.jpg",
+    "static/media/kaisen.jpg": "/static/media/kaisen.0e1e66bbefe857781d77.jpg",
+    "static/media/naruto.jpg": "/static/media/naruto.23c4f1163ff8d6c0922a.jpg",
+    "static/media/komi.jpg": "/static/media/komi.768b6a11706eec462666.jpg",
+    "index.html": "/index.html",
+    "main.f54a033f.css.map": "/static/css/main.f54a033f.css.map",
+    "main.6e3afe58.js.map": "/static/js/main.6e3afe58.js.map",
+    "787.759e47f1.chunk.js.map": "/static/js/787.759e47f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f54a033f.css",
-    "static/js/main.b5b2e6fa.js"
+    "static/js/main.6e3afe58.js"
   ]
 }
